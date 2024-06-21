@@ -1,24 +1,26 @@
 # Привет 👋
 Backend разработчик.
 
-![Static Badge](https://img.shields.io/badge/%D0%A1%D1%82%D0%B5%D0%BA%3A-black)
-![Static Badge](https://img.shields.io/badge/python-black?logo=python)
-![Static Badge](https://img.shields.io/badge/django-black?logo=django)
-![Static Badge](https://img.shields.io/badge/rest%20framework-black?logo=django)
-![Static Badge](https://img.shields.io/badge/postgresql-black?logo=postgresql)
-![Static Badge](https://img.shields.io/badge/sqlite-black?logo=sqlite)
-![Static Badge](https://img.shields.io/badge/nginx-black?logo=nginx)
-![Static Badge](https://img.shields.io/badge/gunicorn-black?logo=gunicorn)
-![Static Badge](https://img.shields.io/badge/pytest-black?logo=pytest)
+### Стек
+![Static Badge](https://img.shields.io/badge/python-black?logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/html-black?logo=HTML5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/django-black?logo=django&logoColor=white)
+![Static Badge](https://img.shields.io/badge/rest%20framework-black?logo=django&logoColor=white)
+![Static Badge](https://img.shields.io/badge/bootstrap-black?logo=bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/postgresql-black?logo=postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/sqlite-black?logo=sqlite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/nginx-black?logo=nginx&logoColor=white)
+![Static Badge](https://img.shields.io/badge/gunicorn-black?logo=gunicorn&logoColor=white)
+![Static Badge](https://img.shields.io/badge/pytest-black?logo=pytest&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%3A-black)
-![Static Badge](https://img.shields.io/badge/vsc-black?logo=visual%20studio%20code)
-![Static Badge](https://img.shields.io/badge/postman-black?logo=postman)
-![Static Badge](https://img.shields.io/badge/docker-black?logo=docker)
-![Static Badge](https://img.shields.io/badge/git-black?logo=git)
+### Инструменты
+![Static Badge](https://img.shields.io/badge/visual%20studio%20code-black?logo=visual%20studio%20code&logoColor=white)
+![Static Badge](https://img.shields.io/badge/postman-black?logo=postman&logoColor=white)
+![Static Badge](https://img.shields.io/badge/docker-black?logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/git-black?logo=git&logoColor=white)
 
 ### Связь со мной
-[![Static Badge](https://img.shields.io/badge/telegram-black?logo=telegram)](https://t.me/Wiz410)
+[![Static Badge](https://img.shields.io/badge/telegram-black?logo=telegram&logoColor=white)](https://t.me/Wiz410)
 
 <details>
 <summary>👾 Немного статистики</summary>
