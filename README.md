@@ -1,6 +1,7 @@
 ### Привет, я Данила 👋
 
 ---
+
 Начинающий backend разработчик на Python из России.
 
 **Стек**
@@ -25,7 +26,7 @@
 
 **Связь со мной**
 
-[![Static Badge](https://img.shields.io/badge/telegram-gray?logo=telegram&logoColor=white)](https://t.me/Wiz410)
+[![Static Badge](https://img.shields.io/badge/%40wiz410-grey?logo=telegram&logoColor=white&label=telegram&labelColor=grey)](https://t.me/Wiz410)
 
 ---
 
@@ -34,7 +35,7 @@
 <summary>👾 Немного статистики GitHub</summary>
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiz410&&rank_icon=github&bg_color=808080&title_color=ffffff&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wiz410&layout=compact&bg_color=808080&title_color=ffffff&text_color=ffffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiz410&&rank_icon=github&bg_color=808080&hide_border=true&title_color=ffffff&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wiz410&layout=compact&bg_color=808080&hide_border=true&title_color=ffffff&text_color=ffffff)
 
 </details>
